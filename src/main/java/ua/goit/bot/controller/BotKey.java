@@ -1,8 +1,8 @@
 package ua.goit.bot.controller;
 
 public enum BotKey {
-    USER_NAME("GoIT_CurrencyBot"),
-    TOKEN("1679176414:AAGo83LEtbElSccH_4Dac0-Y4l-IF_ze6P4");
+    USER_NAME("Some_bot_key"),
+    TOKEN("Some_bot_token");
 
     private final String value;
 
