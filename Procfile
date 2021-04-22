@@ -1,1 +1,0 @@
-worker java -jar target/telegramcurrencybotgroup1-jar-with-dependencies.jar
